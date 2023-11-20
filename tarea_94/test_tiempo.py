@@ -1,4 +1,5 @@
-from tiempo import tierra, marte, jupiter, get_segundos_caida
+from tiempo import tierra, marte, jupiter
+from prueba import get_segundos_caida
 import pytest
 from unittest.mock import patch
 
